@@ -17,3 +17,5 @@
 // console.log(5 + +'5');
 
 console.log(typeof(prompt("how old are you?", "18")));
+
+let newVariable = "something new";
